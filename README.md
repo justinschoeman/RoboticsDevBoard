@@ -2,4 +2,5 @@
 
 A simple dev board/shield for robotics experiments with Arduino
 
-![Pin layout](images/arduino-nano-pins.png)
+![Arduino Pin layout](images/arduino-nano-pins.png)
+![Board Latout](images/devboard_annotated.png)
