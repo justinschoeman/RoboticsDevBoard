@@ -39,10 +39,10 @@ The 6 sockets are arranged next to digital pins 7-12, and these are the signal p
 
 As an example, to control a servo on pin 12:
 
-`#include <Servo.h>
-Servo servo12;
-servo12.attach(12, 400, 2600);
-servo12.write(angle);`
+    #include <Servo.h>
+    Servo servo12;
+    servo12.attach(12, 400, 2600);
+    servo12.write(angle);
 
 ## Joystick
 
