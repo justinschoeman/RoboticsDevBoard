@@ -2,11 +2,17 @@
 
 A simple dev board/shield for robotics experiments with Arduino
 
-## Board layout
+## Arduino Setup
+
+Tools->Board->Arduino AVR Boards->Arduino Nano
+
+Tools->Processor->ATmega328P (Old bootloader)
+
+## Board Layout
 
 ![Board Layout](images/devboard_annotated.png)
 
-## Arduino pinout
+## Arduino Pinout
 
 ![Arduino Pin layout](images/arduino-nano-pins.png)
 
